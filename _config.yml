@@ -8,7 +8,7 @@
 
 # Site Settings
 locale          : "en-US"
-title           : "BioHPC Lab"
+title           : "Ahn Lab"
 title_separator : "-"
 name            : &name "Tae-Hyuk (Ted) Ahn"
 description     : &description "BioHPC Lab @ Saint Louis University - Bioinformatics, AI, and High-Performance Computing"
