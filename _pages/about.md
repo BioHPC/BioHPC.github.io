@@ -1,41 +1,23 @@
 ---
 permalink: /
-title: "BioHPC Lab @ Saint Louis University"
+title: "About Me"
 author_profile: true
 redirect_from:
   - /about/
   - /about.html
 ---
 
-Our group's research focuses on **developing new software tools** to better analyze **Big Data** (principally, but not limited to, bio, health, and biomedical) using **Artificial Intelligence (AI)** and diverse computational techniques on **High-Performance Computing (HPC)** systems including supercomputers and cloud computing.
+I am an Associate Professor and Interim Associate Chair in the [Department of Computer Science](https://cs.slu.edu/) at [Saint Louis University](https://www.slu.edu/), with a secondary appointment in the [Department of Mathematics and Statistics](https://www.slu.edu/arts-and-sciences/mathematics-and-statistics/). I am also a core faculty member of the [Graduate Program in Bioinformatics and Computational Biology](https://www.slu.edu/arts-and-sciences/bioinformatics/index.php) and an Adjunct Professor at the [AI Graduate School](https://ai.gist.ac.kr/) at [Gwangju Institute of Science and Technology (GIST)](https://www.gist.ac.kr/) in South Korea. I received my Ph.D. in Computer Science from [Virginia Tech](https://cs.vt.edu/) in 2012, an M.S. in Computer Engineering from [Northwestern University](https://www.northwestern.edu/), and a B.S. in Electrical Engineering from [Yonsei University](https://www.yonsei.ac.kr/) in South Korea. Before joining academia, I worked as a Senior Software Engineer at [Samsung SDS](https://www.samsungsds.com/) and held postdoctoral and research positions at [Oak Ridge National Laboratory](https://www.ornl.gov/).
 
-[Learn more about our research →](/research/)
+I lead the **BioHPC Lab**, where our research focuses on developing innovative software tools to analyze **big data** — principally in biological, health, and biomedical domains — using **Artificial Intelligence (AI)** and advanced computational techniques on **High-Performance Computing (HPC)** systems, including supercomputers, GPU clusters, and cloud platforms. My work spans bioinformatics, metagenomics, single-cell RNA-seq analysis, and deep learning for biomedical applications. I have been awarded over **$7 million in total grant funding** (approximately **$2 million as PI/co-PI**), including awards from [NSF](https://www.nsf.gov/), [NIH](https://www.nih.gov/), [DOE](https://www.energy.gov/), and international agencies.
 
-## News
+I currently serve as an Associate Editor for [Frontiers in Microbiomes](https://www.frontiersin.org/journals/microbiomes) and have served on technical program committees for ACM-BCB and IEEE-BIBM. I am a member of ACM, IEEE, and ISCB. For more details, please see my [publications](/publications/), [Google Scholar](https://scholar.google.com/citations?user=YOUR_SCHOLAR_ID), or [CV](/cv/).
+
+## Recent News
 
 - **2025**: SC'25 DRBSD Workshop Best Paper Runner-up Award ([Workshop](https://drbsd.github.io/)) ([Paper](https://doi.org/10.1145/3731599.3767378))
 - **2024**: Cory published his first first-author paper at [Genome Research](https://genome.cshlp.org/content/early/2024/09/17/gr.279364.124.abstract); [NSF CC* Award (ModernCARE $630K)](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2430236) to build GPU cluster for AI research at SLU (PI)
 - **2023**: Summer hands-on tutorial about AI-HPC at GIST ([GitHub](https://github.com/BioHPC/GIST-AI-HPC-2024))
 - **2022**: Welcome, Cory Gardner started a CS Ph.D. program! SLU Research Innovation Fund for developing T-Cell analysis platform
-- **2021**: MegaR → BMC Bioinformatics (Eliza and Yassin, Congrats!), iCAT → F1000Research, Korea Gov ACT+ Funding Award (co-PI)
-- **2020**: Tenured! (One year early), CAMDA 2020 Best Presentation Award (Sadiya and Cory, Congrats!), ACM-BCB 2020 (Tim, Congrats!)
 
 [See all news →](/news/)
-
-## Research Areas
-
-**Bio- and Biomedical Informatics**  
-An interdisciplinary field that develops methods and software tools for understanding biological and medical data, combining computer science, statistics, mathematics, and engineering.
-
-**Big Data and AI**  
-Applying machine learning and deep learning to extract knowledge from big data in bioinformatics, powered by parallel/distributed computing and sophisticated algorithms.
-
-**High-Performance Computing**  
-Aggregating computing power to solve large problems in science and engineering — including supercomputers, GPU clusters, and cloud computing.
-
-## Contact
-
-Interdisciplinary Science and Engineering (ISE) Building Room 234B  
-Saint Louis University  
-220 N. Grand Blvd., St. Louis, MO 63103  
-Phone: (314) 977-3633
