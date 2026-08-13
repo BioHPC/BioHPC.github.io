@@ -21,6 +21,12 @@ author:
   avatar    : "THAahn_2024.jpg"       # images/ 폴더에 프로필 사진 넣기
   name      : "Tae-Hyuk (Ted) Ahn, Ph.D."
   bio       : "Associate Professor, Department of Computer Science, Saint Louis University"
+
+  links:
+    - label: "CV (PDF)"
+      icon: "fas fa-fw fa-file-pdf"
+      url: "/files/CV_THAhn.pdf"
+
   location  : "St. Louis, MO"
   employer  : "Saint Louis University"
   uri       : "https://cs.slu.edu/~ahn/"
