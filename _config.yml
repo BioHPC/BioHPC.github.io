@@ -18,7 +18,7 @@ repository      : "BioHPC/BioHPC.github.io"
 
 # Site Author (사이드바에 표시)
 author:
-  avatar    : "profile.png"       # images/ 폴더에 프로필 사진 넣기
+  avatar    : "THAahn_2024.jpg"       # images/ 폴더에 프로필 사진 넣기
   name      : "Tae-Hyuk (Ted) Ahn, Ph.D."
   bio       : "Associate Professor, Department of Computer Science, Saint Louis University"
   location  : "St. Louis, MO"
