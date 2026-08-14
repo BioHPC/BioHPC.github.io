@@ -17,7 +17,7 @@ author_profile: true
 
 ## Office Hours (Fall 2026)
 
-<b>Location:</b> ISE (SSEC)-234B / [Zoom](https://slu.zoom.us/my/taehyukahn)
+<b>Location:</b> SSEC-234B / [Zoom](https://slu.zoom.us/my/taehyukahn)
 
 | Day | Time | Format |
 |-----|------|--------|
