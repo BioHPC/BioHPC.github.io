@@ -18,11 +18,12 @@ We develop AI-driven methods for multi-modal and multi-omics data fusion, metage
 <b>Software:</b>
 [MegaR](https://github.com/BioHPC/MegaR) | [MegaD](https://github.com/BioHPC/MegaD) | [iCAT](https://github.com/BioHPC/iCAT) | [LONGO](https://github.com/BioHPC/LONGO) | [Sigma](https://github.com/BioHPC/SigmaW) | [Omega](http://omega.omicsbio.org/)
 
-<b>Funding:</b>
-- [NSF CRII (Sole-PI)](https://www.nsf.gov/awardsearch/showAward?AWD_ID=1566292) — Accelerating Human Microbiome Analysis
-- [NSF S-STEM BITWISE (co-PI)](https://www.nsf.gov/awardsearch/showAward?AWD_ID=1564894) — Bioinformatics Training
-- NIH (Key Personnel) — TCR Sequence Analysis of Human Cohorts from Zika Infection
-- FBI (Key Personnel) — Identifying and Tracking Virus-Specific TCR Clonotypes
+<b>Selected Funding:</b>
+- [NSF CRII](https://www.nsf.gov/awardsearch/showAward?AWD_ID=1566292) — Accelerating Human Microbiome Analysis
+- [NSF S-STEM BITWISE](https://www.nsf.gov/awardsearch/showAward?AWD_ID=1564894) — Bioinformatics Training
+- NIH — TCR Sequence Analysis of Human Cohorts from Zika Infection
+- FBI — Identifying and Tracking Virus-Specific TCR Clonotypes
+- Purina - Deep Analysis of Dietary Effects on Dog Gut Microbiomes 
 
 <b>Selected Publications:</b>
 - J. P. Sirasani, et al., "Bioinformatics approaches of blood and tissue microbiome analyses", <i>Briefings in Bioinformatics</i>, 2025. [[DOI](https://doi.org/10.1093/bib/bbaf176)]
@@ -45,9 +46,10 @@ We build GPU computing infrastructure, develop scalable bioinformatics tools usi
 <b>Software:</b>
 [SORA](https://github.com/BioHPC/SORA) | [ForStoch](https://github.com/BioHPC/ForStoch)
 
-<b>Funding:</b>
-- [NSF CC* ModernCARE (PI)](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2430236) — GPU cluster for AI research at SLU
-- [Korean Ministry of MSS (SLU PI)](https://www.mss.go.kr/) — PUF-Blockchain security
+<b>Selected Funding:</b>
+- NSF EAGER - Unveiling Security Risks to Scientific Integrity in AI-Driven Biological Discovery
+- [NSF CC* ModernCARE](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2430236) — GPU cluster for AI research at SLU
+- [Korean Ministry of MSS](https://www.mss.go.kr/) — PUF-Blockchain security
 
 <b>Selected Publications:</b>
 - <u>C. Gardner</u>, et al., "Wavelet-Enhanced PaDiM for Industrial Anomaly Detection", <i>IEEE Access</i>, 2026. [[DOI](https://doi.org/10.1109/ACCESS.2026.3669882)]
