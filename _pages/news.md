@@ -6,8 +6,8 @@ author_profile: true
 ---
 
 ### 2026
-- [NSF EAGER Award](https://www.nsf.gov/) — Unveiling Security Risks to Scientific Integrity in AI-Driven Biological Discovery (SLU co-PI, ~$300K in total)
-- [Korean Ministry of SMEs and Startups Award](https://www.mss.go.kr/) — PUF–Blockchain Converged Security Technology (SLU PI, ~$1M in total, ~$300K for SLU)
+- <b>[NSF EAGER Award](https://www.nsf.gov/)</b> — Unveiling Security Risks to Scientific Integrity in AI-Driven Biological Discovery (SLU co-PI, ~$300K in total)
+- <b>[Korean Ministry of SMEs and Startups Award](https://www.mss.go.kr/)</b> — PUF–Blockchain Converged Security Technology (SLU PI, ~$1M in total, ~$300K for SLU)
 - Cory Gardner published "Wavelet-Enhanced PaDiM for Industrial Anomaly Detection" in <i>IEEE Access</i> [[DOI](https://doi.org/10.1109/ACCESS.2026.3669882)]
 - Gihwan Jung published "Wildfire Smoke Detection" in <i>Fire</i> [[DOI](https://doi.org/10.3390/fire9020092)]
 - Welcome new students: Franklin Lamin, Usha Rani Lankalapalli, Seung Bum Jung, and Tanisha Londhe!
