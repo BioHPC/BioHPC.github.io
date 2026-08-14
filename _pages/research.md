@@ -13,7 +13,7 @@ Our research focuses on developing innovative computational tools to analyze <b>
 
 We develop AI-driven methods for multi-modal and multi-omics data fusion, metagenomics, single-cell RNA-seq, immune cell analysis, and computer vision for biomedical and industrial applications.
 
-<b>Key Topics:</b> Multi-modal/multi-omics data integration, metagenome-assembled genomes, microbiome-based ML diagnostics, T-cell receptor sequencing, GPU-accelerated scRNA-seq, anomaly detection
+<b>Key Topics:</b> Multi-modal/multi-omics data integration, metagenome-assembled genomes, microbiome-based ML diagnostics, T-cell receptor sequencing, scRNA-seq, spatial transcriptomics, next-generation sequencing
 
 <b>Software:</b>
 [MegaR](https://github.com/BioHPC/MegaR) | [MegaD](https://github.com/BioHPC/MegaD) | [iCAT](https://github.com/BioHPC/iCAT) | [LONGO](https://github.com/BioHPC/LONGO) | [Sigma](https://github.com/BioHPC/SigmaW) | [Omega](http://omega.omicsbio.org/)
@@ -40,7 +40,7 @@ We develop AI-driven methods for multi-modal and multi-omics data fusion, metage
 
 We build GPU computing infrastructure, develop scalable bioinformatics tools using Apache Spark and cloud platforms, and explore cybersecurity applications including PUF-blockchain technology.
 
-<b>Key Topics:</b> GPU cluster management, cloud computing, parallel/distributed algorithms, Apache Spark for genomics, PUF-blockchain security
+<b>Key Topics:</b> GPU cluster management, anomaly detection, cloud computing, parallel/distributed algorithms, Apache Spark for genomics, PUF-blockchain security
 
 <b>Software:</b>
 [SORA](https://github.com/BioHPC/SORA) | [ForStoch](https://github.com/BioHPC/ForStoch)
