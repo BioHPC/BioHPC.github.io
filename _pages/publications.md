@@ -13,9 +13,7 @@ author_profile: true
 
 ## Under Review
 
-[U4] J. Kang, <u>S. Jung</u>, K. Kim, <u>C. Gardner</u>, J.-S. Yeom, <b>T.-H. Ahn</b><sup>†</sup>, and J. Kim<sup>†</sup>, "HPC-CARLA: Closed-Loop Evaluation of Autonomous Driving Agents as a Resilient, Schedulable HPC Workload", Under Review (<i>SC'26 WORKS Workshop</i>), 2026.
-
-[U3] P. Kang<sup>†</sup>, <b>T.-H. Ahn</b>, "Interaction as Interference: A Quantum-Inspired Aggregation Approach for Classification", Under Review (<i>Mathematics</i>), 2026.
+[U3] J. Kang, <u>S. Jung</u>, K. Kim, <u>C. Gardner</u>, J.-S. Yeom, <b>T.-H. Ahn</b><sup>†</sup>, and J. Kim<sup>†</sup>, "HPC-CARLA: Closed-Loop Evaluation of Autonomous Driving Agents as a Resilient, Schedulable HPC Workload", Under Review (<i>SC'26 WORKS Workshop</i>), 2026.
 
 [U2] V. D Nguyen, C. Gao, <u>C. Gardner</u>, Z. Wang, A. J Margenot, L. Huang<sup>†</sup>, <b>T.-H. Ahn</b><sup>†</sup>, "First Metagenome-Assembled Genomes from the Historic Morrow Plots Reveal Management-Associated Dominance of Archaeal Ammonia Oxidizers", Under Review (<i>Scientific Data</i> (IF=8.7) 1st round), 2026. [[bioRxiv](https://doi.org/10.64898/2026.03.24.714042)]
 
@@ -28,6 +26,8 @@ author_profile: true
 ## Journal Articles and Peer-Reviewed Conference Proceedings
 
 ### 2026
+
+[J37] P. Kang<sup>†</sup>, <b>T.-H. Ahn</b>, "Interaction as Interference: A Quantum-Inspired Aggregation Approach for Classification", <i>Mathematics</i>, 14(16), 3002, 2026. [[DOI](https://doi.org/10.3390/math14163002)]
 
 [J36] <u>C. Gardner</u>, <u>A. Dhiren</u>, B. Min<sup>†</sup>, <b>T.-H. Ahn</b><sup>†</sup>, "Wavelet-Enhanced PaDiM for Industrial Anomaly Detection", <i>IEEE Access</i> (IF=3.6), vol. 14, pp. 37702-37718, 2026. [[DOI](https://doi.org/10.1109/ACCESS.2026.3669882)]
 
