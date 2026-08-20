@@ -29,9 +29,9 @@ author_profile: true
 
 [J37] P. Kang<sup>†</sup>, <b>T.-H. Ahn</b>, "Interaction as Interference: A Quantum-Inspired Aggregation Approach for Classification", <i>Mathematics</i>, 14(16), 3002, 2026. [[DOI](https://doi.org/10.3390/math14163002)]
 
-[J36] <u>C. Gardner</u>, <u>A. Dhiren</u>, B. Min<sup>†</sup>, <b>T.-H. Ahn</b><sup>†</sup>, "Wavelet-Enhanced PaDiM for Industrial Anomaly Detection", <i>IEEE Access</i> (IF=3.6), vol. 14, pp. 37702-37718, 2026. [[DOI](https://doi.org/10.1109/ACCESS.2026.3669882)]
+[J36] <u>C. Gardner</u>, <u>A. Dhiren</u>, B. Min<sup>†</sup>, <b>T.-H. Ahn</b><sup>†</sup>, "Wavelet-Enhanced PaDiM for Industrial Anomaly Detection", <i>IEEE Access</i> (IF=4.2), vol. 14, pp. 37702-37718, 2026. [[DOI](https://doi.org/10.1109/ACCESS.2026.3669882)]
 
-[J35] <u>G. Jung</u>, <b>T.-H. Ahn</b>, and B. Min<sup>†</sup>, "Wildfire Smoke Detection with a Multi-Resolution Framework and Two-Stage Classification Pipeline", <i>Fire</i> (IF=3.0), 9(2), 92, 2026. [[DOI](https://doi.org/10.3390/fire9020092)]
+[J35] <u>G. Jung</u>, <b>T.-H. Ahn</b>, and B. Min<sup>†</sup>, "Wildfire Smoke Detection with a Multi-Resolution Framework and Two-Stage Classification Pipeline", <i>Fire</i> (IF=3.2), 9(2), 92, 2026. [[DOI](https://doi.org/10.3390/fire9020092)]
 
 ### 2025
 
