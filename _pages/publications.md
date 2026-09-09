@@ -11,13 +11,13 @@ author_profile: true
 
 ---
 
-## Under Review
+## Accepted & Under Review
 
-[U3] J. Kang, <u>S. Jung</u>, K. Kim, <u>C. Gardner</u>, J.-S. Yeom, <b>T.-H. Ahn</b><sup>†</sup>, and J. Kim<sup>†</sup>, "HPC-CARLA: Closed-Loop Evaluation of Autonomous Driving Agents as a Resilient, Schedulable HPC Workload", Under Review (<i>SC'26 WORKS Workshop</i>), 2026.
+[U3] J. Kang, <u>S. Jung</u>, K. Kim, <u>C. Gardner</u>, J.-S. Yeom, <b>T.-H. Ahn</b><sup>†</sup>, and J. Kim<sup>†</sup>, "HPC-CARLA: Closed-Loop Evaluation of Autonomous Driving Agents as a Resilient, Schedulable HPC Workload", (<i>SC'26 WORKS Workshop</i>), 2026 (accepted).
 
-[U2] V. D Nguyen, C. Gao, <u>C. Gardner</u>, Z. Wang, A. J Margenot, L. Huang<sup>†</sup>, <b>T.-H. Ahn</b><sup>†</sup>, "First Metagenome-Assembled Genomes from the Historic Morrow Plots Reveal Management-Associated Dominance of Archaeal Ammonia Oxidizers", Under Review (<i>Scientific Data</i> (IF=8.7) 1st round), 2026. [[bioRxiv](https://doi.org/10.64898/2026.03.24.714042)]
+[U2] V. D Nguyen, C. Gao, <u>C. Gardner</u>, Z. Wang, A. J Margenot, L. Huang<sup>†</sup>, <b>T.-H. Ahn</b><sup>†</sup>, "First Metagenome-Assembled Genomes from the Historic Morrow Plots Reveal Management-Associated Dominance of Archaeal Ammonia Oxidizers", <i>Scientific Data</i> (IF=8.7), 2026 (under review). [[bioRxiv](https://doi.org/10.64898/2026.03.24.714042)]
 
-[U1] K.-S. Kim, <u>C. Gardner</u>, A. Cullen, J. A. Stelzer, K. Cho, A. Sharma, M. T. Nemera, T. Law, H. Naz, G. Zhao, H. W. Gabel, G. J. Patti, E. S. Musiek, <b>T.-H. Ahn</b>, J. J. Yi<sup>†</sup>, "Persistent neuronal stress signaling underlies phenotypes in a mouse model of Angelman syndrome", Under Review (<i>Nature</i> (IF=55) 2nd round), 2026.
+[U1] K.-S. Kim, <u>C. Gardner</u>, A. Cullen, J. A. Stelzer, K. Cho, A. Sharma, M. T. Nemera, T. Law, H. Naz, G. Zhao, H. W. Gabel, G. J. Patti, E. S. Musiek, <b>T.-H. Ahn</b>, J. J. Yi<sup>†</sup>, "Persistent neuronal stress signaling underlies phenotypes in a mouse model of Angelman syndrome", <i>Nature</i> (IF=55), 2026 (accepted).
 
 <!-- [U1] A. Cullen, A. Erickson, <u>C. Gardner</u>, J. R. Moore, A. Paneque, A. Gunelson, M. Mindt, <b>T.-H. Ahn</b>, H. W. Gabel, J. J. Yi<sup>†</sup>, "CTCF regulates the long gene expression program in neurons", Under Review (<i>Molecular Psychiatry</i> (IF=10.1) 2nd round), 2026. -->
 
