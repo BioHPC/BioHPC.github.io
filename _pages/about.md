@@ -15,12 +15,23 @@ I lead the **Ahn Lab (BioHPC Lab)**, where our research focuses on developing in
 
 I currently serve as an Associate Editor for [Frontiers in Microbiomes](https://www.frontiersin.org/journals/microbiomes) and have served on technical program committees for ACM-BCB and IEEE-BIBM. I am a member of ACM, IEEE, and ISCB. For more details, please see my [publications](/publications/), [Google Scholar](https://scholar.google.com/citations?user=LzZLPpAAAAAJ&hl=en), or [CV (PDF)](/files/CV_THAhn.pdf).
 
+
 ## Recent News
 
-- **2026**: [NSF EAGER Award](https://www.nsf.gov/) — Unveiling Security Risks to Scientific Integrity in AI-Driven Biological Discovery (SLU co-PI, ~$300K in total); [Korean Ministry of SMEs and Startups Award](https://www.mss.go.kr/) — PUF–Blockchain Converged Security Technology (SLU PI, ~$1M in total, ~$300K for SLU)
-- **2025**: SC'25 DRBSD Workshop Best Paper Runner-up Award ([Workshop](https://drbsd.github.io/)) ([Paper](https://doi.org/10.1145/3731599.3767378))
-- **2024**: Cory published his first first-author paper at [Genome Research](https://genome.cshlp.org/content/early/2024/11/08/gr279364124); [NSF CC* Award (ModernCARE $630K)](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2430236) to build GPU cluster for AI research at SLU (PI)
-- **2023**: Summer hands-on tutorial about AI-HPC at GIST ([GitHub](https://github.com/BioHPC/GIST-AI-HPC-2024))
-- **2022**: Welcome, Cory Gardner started a CS Ph.D. program! SLU Research Innovation Fund for developing T-Cell analysis platform
+### **2026**
+
+* **Nature paper accepted** — *Persistent neuronal stress signaling underlies phenotypes in a mouse model of Angelman syndrome*
+* **SC'26 WORKS Workshop paper accepted** — *HPC-CARLA: Closed-Loop Evaluation of Autonomous Driving Agents as a Resilient, Schedulable HPC Workload*
+* [NSF EAGER Award](https://www.nsf.gov/) — *Unveiling Security Risks to Scientific Integrity in AI-Driven Biological Discovery* (SLU co-PI, ~$300K in total)
+* [Korean Ministry of SMEs and Startups Award](https://www.mss.go.kr/) — *PUF–Blockchain Converged Security Technology* (SLU PI, ~$1M in total, ~$300K for SLU)
+
+### **2025**
+
+* **SC'25 DRBSD Workshop Best Paper Runner-up Award** ([Workshop](https://drbsd.github.io/)) ([Paper](https://doi.org/10.1145/3731599.3767378))
+
+### **2024**
+
+* **Genome Research paper** — Cory Gardner published his first paper as first author ([Paper](https://genome.cshlp.org/content/early/2024/11/08/gr279364124))
+* **NSF CC* Award — ModernCARE ($630K)** — Building a GPU cluster for AI research at SLU (PI) ([Award](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2430236))
 
 [See all news →](/news/)
