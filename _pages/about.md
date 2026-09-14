@@ -20,7 +20,7 @@ I currently serve as an Associate Editor for [Frontiers in Microbiomes](https://
 
 ### **2026**
 
-* **Nature paper accepted** — *Persistent neuronal stress signaling underlies phenotypes in a mouse model of Angelman syndrome*
+* **Collaborative Nature paper accepted** — *Persistent neuronal stress signaling underlies phenotypes in a mouse model of Angelman syndrome* (Cory Gardner, second author; T.-H. Ahn, co-author).
 * **SC'26 WORKS Workshop paper accepted** — *HPC-CARLA: Closed-Loop Evaluation of Autonomous Driving Agents as a Resilient, Schedulable HPC Workload*
 * [NSF EAGER Award](https://www.nsf.gov/) — *Unveiling Security Risks to Scientific Integrity in AI-Driven Biological Discovery* (SLU co-PI, ~$300K in total)
 * [Korean Ministry of SMEs and Startups Award](https://www.mss.go.kr/) — *PUF–Blockchain Converged Security Technology* (SLU PI, ~$1M in total, ~$300K for SLU)

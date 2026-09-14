@@ -6,6 +6,8 @@ author_profile: true
 ---
 
 ### 2026
+- <b>Our collaborative paper was accepted in <i>Nature</i></b> — Cory Gardner is the second author on "Persistent neuronal stress signaling underlies phenotypes in a mouse model of Angelman syndrome" (DOI TBA)
+- <b>Paper accepted at SC'26 WORKS Workshop</b> — "HPC-CARLA: Closed-Loop Evaluation of Autonomous Driving Agents as a Resilient, Schedulable HPC Workload" (DOI TBA)
 - <b>[NSF EAGER Award](https://www.nsf.gov/)</b> — Unveiling Security Risks to Scientific Integrity in AI-Driven Biological Discovery (SLU co-PI, ~$300K in total)
 - <b>[Korean Ministry of SMEs and Startups Award](https://www.mss.go.kr/)</b> — PUF–Blockchain Converged Security Technology (SLU PI, ~$1M in total, ~$300K for SLU)
 - Cory Gardner published "Wavelet-Enhanced PaDiM for Industrial Anomaly Detection" in <i>IEEE Access</i> [[DOI](https://doi.org/10.1109/ACCESS.2026.3669882)]
