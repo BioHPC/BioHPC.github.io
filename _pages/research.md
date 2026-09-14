@@ -9,7 +9,7 @@ Our research focuses on developing innovative computational tools to analyze <b>
 
 ---
 
-## Bioinformatics & Biomedical Informatics
+## AI + Bioinformatics & Biomedical Informatics
 
 We develop AI-driven methods for multi-modal and multi-omics data fusion, metagenomics, single-cell RNA-seq, immune cell analysis, and computer vision for biomedical and industrial applications.
 
