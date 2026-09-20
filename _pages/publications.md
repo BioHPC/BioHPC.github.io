@@ -24,7 +24,7 @@ author_profile: true
 
 ### 2026
 
-[J38] K.-S. Kim, <u>C. Gardner</u>, A. Cullen, J. A. Stelzer, K. Cho, A. Sharma, M. T. Nemera, T. Law, H. Naz, G. Zhao, H. W. Gabel, G. J. Patti, E. S. Musiek, <b>T.-H. Ahn</b>, J. J. Yi<sup>†</sup>, "Persistent neuronal stress signaling underlies phenotypes in a mouse model of Angelman syndrome", <i>Nature</i> (IF=55), 2026. <b>Accepted></b>. [DOI TBA].
+[J38] K.-S. Kim, <u>C. Gardner</u>, A. Cullen, J. A. Stelzer, K. Cho, A. Sharma, M. T. Nemera, T. Law, H. Naz, G. Zhao, H. W. Gabel, G. J. Patti, E. S. Musiek, <b>T.-H. Ahn</b>, J. J. Yi<sup>†</sup>, "Persistent neuronal stress signaling underlies phenotypes in a mouse model of Angelman syndrome", <i>Nature</i> (IF=55), 2026. <b>Accepted</b>. [DOI TBA].
 
 [C17] J. Kang, <u>S. Jung</u>, K. Kim, <u>C. Gardner</u>, J.-S. Yeom, <b>T.-H. Ahn</b><sup>†</sup>, and J. Kim<sup>†</sup>, "HPC-CARLA: Closed-Loop Evaluation of Autonomous Driving Agents as a Resilient, Schedulable HPC Workload", (<i>SC'26 WORKS Workshop</i>), 2026. <b>Accepted</b>. [DOI TBA].
 
