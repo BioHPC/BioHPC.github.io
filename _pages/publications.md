@@ -24,7 +24,7 @@ author_profile: true
 
 ### 2026
 
-[J38] K.-S. Kim, <u>C. Gardner</u>, A. Cullen, J. A. Stelzer, K. Cho, A. Sharma, M. T. Nemera, T. Law, H. Naz, G. Zhao, H. W. Gabel, G. J. Patti, E. S. Musiek, <b>T.-H. Ahn</b>, J. J. Yi<sup>†</sup>, "Persistent neuronal stress signaling underlies phenotypes in a mouse model of Angelman syndrome", <i>Nature</i> (IF=55), 2026. <b>Accepted</b>. [DOI TBA].
+[J38] K.-S. Kim, <u>C. Gardner</u>, A. Cullen, J. A. Stelzer, K. Cho, A. Sharma, M. T. Nemera, T. Law, H. Naz, G. Zhao, H. W. Gabel, G. J. Patti, E. S. Musiek, <b>T.-H. Ahn</b>, J. J. Yi<sup>†</sup>, "Persistent neuronal stress signalling underlies Angelman syndrome phenotypes", <i>Nature</i> (IF=55), 2026. [[DOI](https://doi.org/10.1038/s41586-026-11165-4)]
 
 [C17] J. Kang, <u>S. Jung</u>, K. Kim, <u>C. Gardner</u>, J.-S. Yeom, <b>T.-H. Ahn</b><sup>†</sup>, and J. Kim<sup>†</sup>, "HPC-CARLA: Closed-Loop Evaluation of Autonomous Driving Agents as a Resilient, Schedulable HPC Workload", (<i>SC'26 WORKS Workshop</i>), 2026. <b>Accepted</b>. [DOI TBA].
 
@@ -42,7 +42,7 @@ author_profile: true
 
 [C15] S. Maharjan, M. Xia, <b>T.-H. Ahn</b>, M. Song, "Intelligent Code Completion by a Unified Multi-task Learning with a Large Language Model", in <i>Proceedings of the 2025 IEEE/ACIS 23rd SERA</i>, Las Vegas, NV, pp. 134–142, 2025. [[DOI](https://doi.org/10.1109/SERA65747.2025.11154531)]
 
-[J33] J. P. Sirasani, <u>C. Gardner</u>, <u>G. Jung</u>, H. Lee, <b>T.-H. Ahn</b><sup>†</sup>, "Bioinformatics approaches of blood and tissue microbiome analyses: challenges and perspectives", <i>Briefings in Bioinformatics</i> (IF=7.7), 26, 2, bbaf176, 2025. [[DOI](https://doi.org/10.1093/bib/bbaf176)]
+[J33] <u>J. P. Sirasani</u>, <u>C. Gardner</u>, <u>G. Jung</u>, H. Lee, <b>T.-H. Ahn</b><sup>†</sup>, "Bioinformatics approaches of blood and tissue microbiome analyses: challenges and perspectives", <i>Briefings in Bioinformatics</i> (IF=7.7), 26, 2, bbaf176, 2025. [[DOI](https://doi.org/10.1093/bib/bbaf176)]
 
 ### 2024
 
