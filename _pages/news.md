@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 ### 2026
-- <b>Our collaborative paper was accepted in <i>Nature</i></b> — Cory Gardner is the second author on "Persistent neuronal stress signaling underlies phenotypes in a mouse model of Angelman syndrome" (DOI TBA)
+- <b>Our collaborative paper was published in <i>Nature</i></b> — Cory Gardner is the second author on "Persistent neuronal stress signalling underlies Angelman syndrome phenotypes" (Oct 21, 2026). [[DOI](https://doi.org/10.1038/s41586-026-11165-4)]
 - <b>Paper accepted at SC'26 WORKS Workshop</b> — "HPC-CARLA: Closed-Loop Evaluation of Autonomous Driving Agents as a Resilient, Schedulable HPC Workload" (DOI TBA)
 - <b>[NSF EAGER Award](https://www.nsf.gov/)</b> — Unveiling Security Risks to Scientific Integrity in AI-Driven Biological Discovery (SLU co-PI, ~$300K in total)
 - <b>[Korean Ministry of SMEs and Startups Award](https://www.mss.go.kr/)</b> — PUF–Blockchain Converged Security Technology (SLU PI, ~$1M in total, ~$300K for SLU)
